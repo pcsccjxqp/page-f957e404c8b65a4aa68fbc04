@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.yinjuansm.cn/sitemap.xml
